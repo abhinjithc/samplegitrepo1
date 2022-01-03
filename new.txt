@@ -1,3 +1,6 @@
 New File
 Contents added
-ver 2
+ver 3
+more lines 
+added to git
+commit to git repo
